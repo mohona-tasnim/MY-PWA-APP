@@ -1,6 +1,6 @@
 {
-    "name":"Mohona Tasnim",
-    "short_name":"MY PWA APP",
+    "name":"My Protfolio",
+    "short_name":"PWA",
     "start_url":"/index.html",
     "display":"standalone",
     "background_color":"#5900b3",
